@@ -1,0 +1,6 @@
+com\example\repository\ManufaturerRepository.class
+com\example\MyResource.class
+com\example\FirstSpringBootApplication.class
+com\example\model\Manufacturer.class
+com\example\repository\ManufaturerRestRepository.class
+com\example\ManufacturerAPI.class
